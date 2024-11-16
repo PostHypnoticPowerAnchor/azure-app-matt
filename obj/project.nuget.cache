@@ -8,7 +8,7 @@
     {
       "code": "NU1101",
       "level": "Error",
-      "message": "Unable to find package Microsoft.ApplicationInsights.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "message": "Das Paket \"Microsoft.ApplicationInsights.AspNetCore\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: Microsoft Visual Studio Offline Packages",
       "libraryId": "Microsoft.ApplicationInsights.AspNetCore",
       "targetGraphs": [
         "net9.0"
