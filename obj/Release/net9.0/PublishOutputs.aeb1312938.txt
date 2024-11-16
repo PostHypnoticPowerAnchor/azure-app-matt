@@ -1,0 +1,7 @@
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\azure-app-matt.exe
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\appsettings.Development.json
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\appsettings.json
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\azure-app-matt.dll
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\azure-app-matt.deps.json
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\azure-app-matt.runtimeconfig.json
+C:\_Lokale_Daten_ungesichert\Projects\azure-app-matt\publish#\azure-app-matt.pdb

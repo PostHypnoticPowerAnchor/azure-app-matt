@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/22722e6d-d2fd-4791-b36a-265999f028cf/resourceGroups/az-webapp-matt-cli-group/providers/Microsoft.Web/sites/az-webapp-cli-app"
+}
