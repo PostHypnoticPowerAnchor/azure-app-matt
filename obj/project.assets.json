@@ -5,9 +5,7 @@
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": [
-      "Microsoft.ApplicationInsights.AspNetCore >= 2.21.0"
-    ]
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\salowma-lokal\\.nuget\\packages\\": {}
@@ -52,12 +50,6 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
-        "dependencies": {
-          "Microsoft.ApplicationInsights.AspNetCore": {
-            "target": "Package",
-            "version": "[2.21.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -80,16 +72,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Das Paket \"Microsoft.ApplicationInsights.AspNetCore\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.ApplicationInsights.AspNetCore",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  }
 }

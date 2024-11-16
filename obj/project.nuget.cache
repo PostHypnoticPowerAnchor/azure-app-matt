@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVbvcWuUZLU=",
-  "success": false,
+  "dgSpecHash": "4Ylvsx2tbz0=",
+  "success": true,
   "projectFilePath": "C:\\_Lokale_Daten_ungesichert\\Projects\\azure-app-matt\\azure-app-matt.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Das Paket \"Microsoft.ApplicationInsights.AspNetCore\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.ApplicationInsights.AspNetCore",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }
