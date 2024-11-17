@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-matt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1ad4dde57800743f70a4ed47c6426e4792e5879")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ffd9184529217b89012e91472b78fbe2a7b456")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-matt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-matt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
